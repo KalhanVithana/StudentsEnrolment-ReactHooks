@@ -1,6 +1,7 @@
 # StudentsEnrolment-ReactHooks
 This is my student enrolment project .I used React hooks for frontend and backend Node JS with database  is SQL.
-#React Hooks 
+
+## react Hooks
 
 
 React  CRUD app - Create frontend and backend with React, Node, Express, SQL. and learn to consume REST APIs with React Axios.
@@ -22,7 +23,7 @@ Start Backend Server
 Get inside the backend folder
 Run npm install to install required packages
 Open terminal run node or nodemon server.js(npm install nodemon)
-Open API URL on http://localhost:4000/students to view it in the browser.
+Open API URL on http://localhost:4000/student to view it in the browser.
 
 npm test
 Launches the test runner in the interactive watch mode.
